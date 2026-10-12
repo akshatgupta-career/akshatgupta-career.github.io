@@ -1,7 +1,7 @@
 # Akshat Gupta portfolio
 
 ## Put it online (free, GitHub Pages)
-1. On GitHub, create a new public repo named exactly `akshatgupta.career.github.io`.
+1. On GitHub, create a new public repo named exactly `akshatgupta-career.github.io`.
 2. Upload every file in this folder (Add file > Upload files), then Commit.
 3. Repo Settings > Pages > Source: "Deploy from a branch", branch `main`, folder `/ (root)`. Save.
 4. In about a minute the site is live at https://gupta-akshat24.github.io
